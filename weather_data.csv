@@ -1,0 +1,36 @@
+Date,City,Country,Temp (°C),Feels Like (°C),Humidity (%),Pressure (hPa),Wind Speed (m/s),Cloudiness (%),Weather
+2025-07-09,Hyderabad,27.69,28.81,58,1009,6.61,100,overcast clouds,IN
+2025-07-09,Delhi,31.32,37.23,66,1001,3.6,100,overcast clouds,IN
+2025-07-09,Mumbai,27.73,31.86,83,1006,8,86,moderate rain,IN
+2025-07-09,Chennai,36.65,39.37,37,1005,4.93,95,overcast clouds,IN
+2025-07-09,Bangalore,28.25,29.83,60,1011,8.78,50,scattered clouds,IN
+2025-07-09,Kolkata,32.37,37.63,59,999,6.83,100,light rain,IN
+2025-07-09,Pune,27.72,30.62,74,1007,6.77,91,overcast clouds,IN
+2025-07-09,Ahmedabad,32.25,35.61,53,1002,3.59,100,overcast clouds,IN
+2025-07-09,Jaipur,32.63,39.28,62,1003,2.97,100,overcast clouds,IN
+2025-07-09,Lucknow,34.15,41.15,85,1001,5.52,100,overcast clouds,IN
+2025-07-09,Visakhapatnam,34.72,38.58,46,1001,6.88,100,overcast clouds,IN
+2025-07-09,Bhopal,26.89,28.15,63,1003,4.03,96,overcast clouds,IN
+2025-07-09,Indore,26.07,26.07,64,1005,4.75,99,overcast clouds,IN
+2025-07-09,Patna,34.63,38.4,46,999,7.58,100,overcast clouds,IN
+2025-07-09,Nagpur,24.24,25.12,92,1005,5.3,100,light rain,IN
+2025-07-09,Vijayawada,34.01,36.25,43,1003,8.26,66,broken clouds,IN
+2025-07-09,Coimbatore,31.81,34.25,51,1009,7.76,32,scattered clouds,IN
+2025-07-09,Surat,27.93,32.23,82,1004,5.39,100,overcast clouds,IN
+2025-07-09,Rajkot,33.19,36.1,48,1002,6.28,61,broken clouds,IN
+2025-07-09,Noida,31.56,37.23,64,1001,4.18,99,overcast clouds,IN
+2025-07-09,London,16.81,16.19,63,1021,2.29,6,clear sky,GB
+2025-07-09,New York,23.1,23.87,92,1014,3.44,7,clear sky,US
+2025-07-09,Paris,16.96,16.49,68,1023,0.47,6,clear sky,FR
+2025-07-09,Tokyo,32.56,35.16,49,1009,8.99,0,clear sky,JP
+2025-07-09,Dubai,36.51,40.18,40,998,4.08,6,clear sky,AE
+2025-07-09,Singapore,31.32,37.53,67,1009,5.36,26,scattered clouds,SG
+2025-07-09,Bangkok,32.94,39.94,68,1007,3.57,100,overcast clouds,TH
+2025-07-09,Berlin,18.05,17.89,76,1014,4.25,89,overcast clouds,DE
+2025-07-09,Toronto,18.29,18.34,83,1016,2.26,59,broken clouds,CA
+2025-07-09,San Francisco,14.59,14.4,88,1020,2.45,0,clear sky,US
+2025-07-09,Los Angeles,20.68,20.66,71,1016,1.53,49,scattered clouds,US
+2025-07-09,Chicago,20.94,21.49,92,1015,1.74,83,broken clouds,US
+2025-07-09,Melbourne,25.54,26.42,87,1019,2.87,5,clear sky,US
+2025-07-09,Cape Town,13.07,12.16,66,1021,4.36,100,overcast clouds,ZA
+2025-07-09,Doha,40.68,39.11,16,997,3.75,8,clear sky,QA

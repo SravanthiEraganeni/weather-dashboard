@@ -1,0 +1,4 @@
+requests
+matplotlib
+pandas
+pip install -r requirements.txt
